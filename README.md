@@ -53,4 +53,7 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por Dutra :wave:
+Desenvolvido por **Thiago Dutra**.
+
+- **GitHub:** [@dutrathiagodev](https://github.com/dutrathiagodev)
+- **LinkedIn:** [Thiago Dutra de Oliveira](https://linkedin.com/in/dutrathiagodev)
